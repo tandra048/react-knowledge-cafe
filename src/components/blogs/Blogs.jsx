@@ -15,7 +15,7 @@ fetch('blogs.json')
 
     return (
         <div>
-            
+           <h1 className="text-4xl">Blogs : {blogs.length}</h1> 
         </div>
     );
 };
