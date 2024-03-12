@@ -1,0 +1,53 @@
+[
+    {
+      "id": "123456",
+      "cover": "https://example.com/cover123456.jpg",
+      "title": "The Hidden Treasure",
+      "author": "Jane Doe",
+      "author_img": "https://ibb.co/nQ4RRwX",
+      "posted_date": "2024-03-10",
+      "reading_time": "20 minutes",
+      "hashtags": ["#adventure", "#mystery", "#fiction"]
+    },
+    {
+      "id": "789012",
+      "cover": "https://example.com/cover789012.jpg",
+      "title": "Secrets of the Cosmos",
+      "author": "John Smith",
+      "author_img": "https://example.com/author_image_john_smith.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": "30 minutes",
+      "hashtags": ["#science", "#space", "#exploration"]
+    },
+    {
+      "id": "345678",
+      "cover": "https://example.com/cover345678.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Emily Jones",
+      "author_img": "https://example.com/author_image_emily_jones.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": "25 minutes",
+      "hashtags": ["#fantasy", "#magic", "#nature"]
+    },
+    {
+      "id": "901234",
+      "cover": "https://example.com/cover901234.jpg",
+      "title": "The Art of Cooking",
+      "author": "David Lee",
+      "author_img": "https://example.com/author_image_david_lee.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": "40 minutes",
+      "hashtags": ["#cooking", "#recipes", "#food"]
+    },
+    {
+      "id": "567890",
+      "cover": "https://example.com/cover567890.jpg",
+      "title": "Cybernetic Revolution",
+      "author": "Alex Johnson",
+      "author_img": "https://example.com/author_image_alex_johnson.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": "35 minutes",
+      "hashtags": ["#technology", "#cybernetics", "#future"]
+    }
+  ]
+  
